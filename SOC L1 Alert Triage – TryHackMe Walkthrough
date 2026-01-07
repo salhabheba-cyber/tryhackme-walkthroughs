@@ -1,0 +1,28 @@
+# SOC L1 Alert Triage – TryHackMe Walkthrough
+
+## Objective
+Learn how to systematically triage security alerts as a Level 1 SOC Analyst and determine whether alerts represent real threats or false positives.
+
+## Key Skills Demonstrated
+- Alert prioritization and severity assessment
+- False positive identification
+- Event correlation
+- IOC recognition and validation
+- SOC decision-making
+
+## My Process
+1. **Initial Assessment**: Reviewed alert source, severity, and affected assets
+2. **Data Collection**: Examined logs and contextual information
+3. **Analysis**: Correlated events and checked for suspicious patterns
+4. **Decision**: Classified alerts as benign, suspicious, or requiring escalation
+
+## Tools Used
+- SIEM simulation
+- Threat intelligence concepts
+- SOC investigation workflow
+
+## Key Takeaways
+- Not every alert is a security incident
+- Context is critical in alert triage
+- Speed and accuracy must be balanced in L1 SOC
+- Clear documentation supports effective escalation
