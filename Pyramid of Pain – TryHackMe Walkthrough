@@ -1,0 +1,22 @@
+# Pyramid of Pain – TryHackMe Walkthrough
+
+## Objective
+Understand how different indicators affect attackers and improve defensive strategies.
+
+## Key Skills Demonstrated
+- IOC classification
+- Threat intelligence reasoning
+- Detection strategy improvement
+
+## My Process
+1. **Indicator Review**: Identified IOC types
+2. **Impact Analysis**: Evaluated attacker cost
+3. **Defensive Mapping**: Related indicators to detection strategies
+
+## Tools Used
+- Threat intelligence concepts
+
+## Key Takeaways
+- Higher-level indicators are more valuable
+- Good detections force attackers to adapt
+- SOC effectiveness improves with strategic detection
