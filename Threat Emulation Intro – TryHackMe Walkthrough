@@ -1,0 +1,22 @@
+# Threat Emulation Intro – TryHackMe Walkthrough
+
+## Objective
+Learn how adversary techniques are emulated to test defenses.
+
+## Key Skills Demonstrated
+- Adversary simulation understanding
+- Detection validation
+- Defensive gap analysis
+
+## My Process
+1. **Technique Review**: Studied adversary behavior
+2. **Emulation Concept**: Mapped attacks to detections
+3. **Defense Evaluation**: Identified detection gaps
+
+## Tools Used
+- Threat emulation frameworks
+
+## Key Takeaways
+- Emulation improves detection maturity
+- Continuous testing strengthens SOC defenses
+
