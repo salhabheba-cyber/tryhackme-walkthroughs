@@ -1,0 +1,26 @@
+# Intro to Logs – TryHackMe Walkthrough
+
+## Objective
+Understand the role of logs in security monitoring and incident investigation.
+
+## Key Skills Demonstrated
+- Log source identification
+- Log interpretation
+- Understanding event timelines
+- Security visibility through logs
+
+## My Process
+1. **Log Review**: Identified different types of logs
+2. **Event Interpretation**: Analyzed log entries for anomalies
+3. **Timeline Building**: Tracked activity over time
+4. **Security Context**: Connected logs to potential incidents
+
+## Tools Used
+- System logs
+- Authentication logs
+- Network logs
+
+## Key Takeaways
+- Logs are the foundation of SOC work
+- Missing logs = blind spots
+- Accurate timestamps are critical for investigations
