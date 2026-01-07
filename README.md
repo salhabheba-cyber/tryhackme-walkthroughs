@@ -1,2 +1,2 @@
 # tryhackme-walkthroughs
-My trackhackme learning journey and completed rooms.
+SOC-focused walkthroughs documenting alert triage, log analysis, and defensive security labs from TryHackMe.
