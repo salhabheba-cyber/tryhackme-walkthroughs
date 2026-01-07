@@ -1,0 +1,26 @@
+# SOC L1 Alert Reporting – TryHackMe Walkthrough
+
+## Objective
+Learn how to document and report security alerts clearly and professionally for escalation and tracking.
+
+## Key Skills Demonstrated
+- Incident documentation
+- Clear technical writing
+- Severity classification
+- Communication with escalation teams
+
+## My Process
+1. **Incident Summary**: Described the alert and affected systems
+2. **Evidence Collection**: Documented logs, timestamps, and indicators
+3. **Analysis**: Explained findings in clear, non-ambiguous language
+4. **Reporting**: Structured the report for SOC escalation
+
+## Tools Used
+- SOC reporting templates
+- Incident documentation methodology
+
+## Key Takeaways
+- Reports must be clear, concise, and factual
+- Poor documentation can delay incident response
+- Writing is a core SOC analyst skill
+
