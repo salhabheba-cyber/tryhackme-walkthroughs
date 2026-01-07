@@ -1,0 +1,25 @@
+# Log Operations – TryHackMe Walkthrough
+
+## Objective
+Learn how logs are collected, processed, and used in SOC environments.
+
+## Key Skills Demonstrated
+- Log lifecycle understanding
+- Log ingestion concepts
+- Normalization awareness
+- SIEM pipeline basics
+
+## My Process
+1. **Collection**: Identified log sources
+2. **Processing**: Understood parsing and normalization
+3. **Storage**: Learned how logs are indexed
+4. **Usage**: Analyzed logs within SOC workflows
+
+## Tools Used
+- SIEM concepts
+- Log pipelines
+
+## Key Takeaways
+- Log quality directly affects detection quality
+- Normalization enables correlation
+- Log retention policies matter
